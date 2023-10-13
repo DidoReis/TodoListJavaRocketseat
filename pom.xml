@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.ersdev</groupId>
-	<artifactId>TodoList</artifactId>
+	<artifactId>todoList</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>TodoList</name>
 	<description>Gerenciador de tarefas</description>
